@@ -3,3 +3,4 @@ Device Changelog
 - OTA update implementation
 - Fixed DC Dimming tile
 - WIFI fix
+- Camera updated to V4.5.002920.0
