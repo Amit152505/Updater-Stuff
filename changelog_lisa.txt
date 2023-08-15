@@ -3,7 +3,7 @@ Device Changelog
 - Nicolas1
 - Nicolas2
 - WIFI fix
-- Camera updated to V4.5.002920.0
+- Camera updated to V5.1.000084.0
 - Camera fixed and now working properly
 - Improved perf
 - Initial user build
