@@ -4,3 +4,6 @@ Device Changelog
 - Fixed DC Dimming tile
 - WIFI fix
 - Camera updated to V4.5.002920.0
+- Camera fixed and now working properly
+- Improved perf
+- Initial user build
