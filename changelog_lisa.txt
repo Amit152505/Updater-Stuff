@@ -7,8 +7,3 @@ Device Changelog
 - Initial user build
 - OTA implementation
 - DC Dimming qs-tile
-
--
--
--
-
