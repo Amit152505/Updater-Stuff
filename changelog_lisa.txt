@@ -1,5 +1,7 @@
 Device Changelog
 
+-
+-
 - OTA update implementation
 - Fixed DC Dimming tile
 - WIFI fix
