@@ -3,9 +3,5 @@ Device Changelog
 - Nicolas1
 - Nicolas2
 - WIFI fix
-- Camera updated to V4
-- Camera fixed and now working properly
-- Improved perf
-- Initial user build
-- OTA implementation
-- DC Dimming qs-tile
+- Added Dolby Atmos support
+- Removed Mi Sound
